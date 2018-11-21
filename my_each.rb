@@ -1,6 +1,6 @@
 def my_each(array) # put argument(s) here
 counter = 0
-while i<array.length
+while i<array.count
   yield
 counter += 1
 end  # code here
